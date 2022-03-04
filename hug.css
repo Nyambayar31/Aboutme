@@ -1,0 +1,231 @@
+header{
+    width: auto;
+    height: 100vh;
+    background-color: #f2f2f0;
+}
+#ryan{
+    height: 570px;
+    width: 450px;
+    margin-left: 75px;
+    margin-top: 75px;
+}
+.cont{
+    height: 250px;
+    width: 600px;
+    float: right;
+    margin-right: 190px;
+}
+p{
+    padding-top: 20px;
+}
+.Home-container{
+    background-color: #f2f2f0;
+    display: contents;
+}
+.Hobby1{
+    height: 150vh;
+    width: auto;
+    padding-top: 90px;
+    background-color: #f2f2f0;
+}
+.zurag{
+    float: left;
+    width: auto;
+
+}
+#pho1{
+    height: 300px;
+    width: 220px;
+    margin-left: 80px;
+    margin-bottom: 130px;
+}
+#pho2{
+    height: 600px;
+    width: 450px;
+    margin-left: 15px;
+}
+#pho3{
+    height: 170px;
+    width: 450px;
+    margin-top: 15px;
+    display: block;
+    margin-left: 560px;
+}
+h3{
+    float: right;
+    margin-top: -580px;
+    margin-right: 180px;
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+.Hobby1 p{
+    font-size: 15.5px;
+    float: right;
+    margin-top: -510px;
+    margin-left: 10px;
+    margin-right: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.Hobby2{
+    width: auto;
+    height: 120vh;
+    background-color: #f2f2f0;
+}
+hr{
+    margin-top: 40px;
+}
+#b1{
+    height: 220px;
+    width: 230px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 80px;
+    margin-left: 30px;
+}
+#b3{
+    height: 260px;
+    width: 250px;
+    float: right;
+    margin-top: 275px;
+    margin-right: -280px;
+   
+    
+}
+#b2{
+    height: 630x;
+    width: 330px;
+    float: right;
+    margin-top: 20px;
+
+}
+#b4{
+    height: 200px;
+    width: 450px;
+    margin-top: 490px;
+    float: right;
+    margin-right:-330px;
+    
+    
+}
+.Hobby2 h3{
+    margin: 150px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+
+    
+}
+.Hobby2 p{
+    float: left;
+    display: block;
+    margin-top: -445px;
+}
+h4{
+    margin-left: 88px;
+    float: left;
+    margin-bottom: 60px;
+   
+}
+a{
+    margin-left: 88px;
+    float: left;
+    align-items: center;
+}
+.Hobby3{
+    width: auto;
+    height: 100vh ;
+    
+}
+#w1{
+    height: 200px;
+    width: 190px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-container{
+    background-color:#e4d9cf;
+    padding-bottom: 10rem;
+    display: block;
+    margin-top: -80px;
+}
+.footer{
+    width: 80%;
+    height: 50vh;
+    background-color: #e4d9cf;
+    color: black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.footer-heading{
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+
+}
+.footer-heading h2{
+    margin-bottom: 4rem;
+    font-size: 20px;
+    padding-right: 2rem;
+    display: inline-block;
+    margin-left: 80px;
+
+}
+.footer-heading a{
+    color: black;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 4.5rem;
+}
+.footer-heading a:hover{
+    color: blueviolet;
+    
+
+}
+.footer-email-form h2{
+    margin-bottom: 2rem;
+    font-size: 25px;
+
+}
+#footer-mail{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    padding-left: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 30px;
+
+}
+.footer-mail::placeholder{
+    color: #b1b1b1;
+    margin-top: 20px;
+}
+#footer-mail-btn{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #d6c05b;
+    outline: none;
+    border: none;
+    color: black;
+    font-size: 1rem;
+}
+
+
+
+
+
+
+
+
